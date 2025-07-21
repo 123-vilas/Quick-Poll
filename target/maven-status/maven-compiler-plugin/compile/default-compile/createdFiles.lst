@@ -1,0 +1,5 @@
+com\example\quickpoll\model\Poll.class
+com\example\quickpoll\model\Option.class
+com\example\quickpoll\repository\PollRepository.class
+com\example\quickpoll\controller\PollController.class
+com\example\quickpoll\QuickPollApplication.class
